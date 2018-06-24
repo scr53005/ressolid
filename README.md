@@ -10,10 +10,12 @@ In order to transform wandering ideas into "marching orders", I needed a framewo
 
 
 Sociology includes economy
+
 It can be said that the past century saw the rise and fall of economy as a scientific discipline. Among social sciences, economy, rightly dubbed "the dismal science", came to dominate the political discourse. In the last 3 decades, probably nothing has imprinted so well our collective vision of what matters than the 1992 Clinton campaign phrase "It's the economy, stupid!".
 
 
 But is it?
+
 As far as I am aware "The Economist" is still the best magazine in the world. There is a Nobel prize in Economic Sciences but no equivalent for Sociology or more broadly Social Sciences. Yet Ronald Coase was blindsided and ultimately plain wrong. As most if not all economists, the 1991 recipient of the Nobel prize only focuses on "efficient allocation of resources", "transaction costs", "bargaining versus litigation", and "Pareto optimal outcomes".
 
 The most important part of what makes us humans is left aside, ignored as if it didn't exist although it's there in plain sight.
@@ -45,6 +47,7 @@ And part of that effort of doing (or refraining from doing) has traditionally be
 Yet money is mono-dimensional and too rudimentary a tool to capture the full wealth of human interactions. We knew that all along, but lately have chosen to ignore it as the economists and libertarian philosophers brought us to focus on the individual.
 
 Ressolid: Making others Happy Again
+
 Lately, globalization has been a great corroder of human bonds. The new, globalized world has swept away the tight-knit communities of yore and enticed us to multiply shallow interactions across the new communication lines.
 
 With only a limited ability to connect to others, we stretched thin our intrinsic ability to nurture and maintain meaningful relationships and experienced trouble in getting our priorities straight.
@@ -60,4 +63,5 @@ The Ressolid project aims to employ an innovative technological platform to repa
 Ressolid aims to increase the community resilience by incentivizing desirable behaviours. While putting social aspects at its core, Ressolid naturally includes economic aspects. It strives to increase the prosperity by making economic and rational "transactions" which would otherwise not be so.
 
 What comes next?
+
 The project started in the summer of 2017 and involved a number of people equally intrigued by the potential of the blockchain technology to positively influence our societies. Among those who contributed ideas and worked to advance it were Laura Oudrar, Gregory Waszniewski-Dumont, Gilles Hocepied and others. Then the initial team dissolved and the project ebbed.
