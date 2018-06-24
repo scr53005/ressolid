@@ -1,6 +1,8 @@
 # ressolid
 Ressolid project
 
+
+
 The Trust machine
 
 I have long been fascinated by the role TRUST plays in shaping our societies and our lives. My attention has been drawn to the blockchain back in 2013 when, avid reader of The Economist, I read the first articles about bitcoin. Then again in October 2015 at the time of the famous issue featuring the blockchain, dubbed "The Trust Machine" on the cover.
@@ -9,9 +11,13 @@ I started thinking about the huge positive impact that such a technology could h
 In order to transform wandering ideas into "marching orders", I needed a framework. Slowly, I realized that the lens through which I was looking at humans and society was tainted. Long dissatisfied with the economic analysis, I wasn't sufficiently proficient in much else. The growing presence and the stimulating influence of the blockchain pushed me to read more and gradually discover sociology.
 
 
+
+
 Sociology includes economy
 
 It can be said that the past century saw the rise and fall of economy as a scientific discipline. Among social sciences, economy, rightly dubbed "the dismal science", came to dominate the political discourse. In the last 3 decades, probably nothing has imprinted so well our collective vision of what matters than the 1992 Clinton campaign phrase "It's the economy, stupid!".
+
+
 
 
 But is it?
@@ -27,6 +33,8 @@ That doesn't imply a dichotomy, quite the contrary. The economic dimension is an
 Yet it doesn't justify ignoring all the other dimensions of humanity.
 
 Furthermore, I am not the only one to believe that we are headed toward abundance and as we accelerate, the prominence of economics among social sciences will decrease.
+
+
 
 Happiness is best when shared
 
@@ -47,6 +55,8 @@ And part of that effort of doing (or refraining from doing) has traditionally be
 
 Yet money is mono-dimensional and too rudimentary a tool to capture the full wealth of human interactions. We knew that all along, but lately have chosen to ignore it as the economists and libertarian philosophers brought us to focus on the individual.
 
+
+
 Ressolid: Making others Happy Again
 
 Lately, globalization has been a great corroder of human bonds. The new, globalized world has swept away the tight-knit communities of yore and enticed us to multiply shallow interactions across the new communication lines.
@@ -62,6 +72,8 @@ Humans have performed “happiness generating” acts all along human history. S
 The Ressolid project aims to employ an innovative technological platform to repair and enhance the fabric of trust between the members of a host community. This fabric should facilitate meaningful interactions among members and strengthen the bonds that bind the community together.
 
 Ressolid aims to increase the community resilience by incentivizing desirable behaviours. While putting social aspects at its core, Ressolid naturally includes economic aspects. It strives to increase the prosperity by making economic and rational "transactions" which would otherwise not be so.
+
+
 
 What comes next?
 
