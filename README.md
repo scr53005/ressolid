@@ -1,6 +1,6 @@
 # ressolid
 Ressolid project
-Test edit
+
 The Trust machine
 
 I have long been fascinated by the role TRUST plays in shaping our societies and our lives. My attention has been drawn to the blockchain back in 2013 when, avid reader of The Economist, I read the first articles about bitcoin. Then again in October 2015 at the time of the famous issue featuring the blockchain, dubbed "The Trust Machine" on the cover.
@@ -29,6 +29,7 @@ Yet it doesn't justify ignoring all the other dimensions of humanity.
 Furthermore, I am not the only one to believe that we are headed toward abundance and as we accelerate, the prominence of economics among social sciences will decrease.
 
 Happiness is best when shared
+
 Human happiness is of course an elusive, philosophical concept. Most people agree that factors such as material prosperity, renown and admiration, success in personal endeavours contribute at least in part to happiness.
 
 Search Google images with the word "happiness" and most results show just one person, being "happy" all by herself.
